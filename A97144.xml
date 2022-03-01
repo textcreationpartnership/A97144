@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomy of warre, or, Warre with the wofull, fruits, and effects thereof, laid out to the life: VVherin from scripture, and experience, these things are clearly handled; to wit, 1. What warre is. 2. The grounds, and causes of warre. 3. The things requisite in war, 4. The nature, and miseries of war, both [brace] civill, and forraigne. 5. What things are justly taxed in war. 6. When war is lawfull. 7. Whether it be lawfull for Christians to make war. 8. Whether subjects may take up armes against their soveraignes. 9. The remedies against war. 10. The meanes to be freed from war. 11. The remedies, and meanes both military, and morall for the obtaining of victory in war. / By R. W. Minister of the Word at Stansteed Mount Fitchet in Essex.</title>
+            <author>Ward, Richard, 1601 or 2-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97144</idno>
+            <idno type="STC">Wing W800</idno>
+            <idno type="STC">Thomason E128_15</idno>
+            <idno type="STC">ESTC R22226</idno>
+            <idno type="EEBO-CITATION">99871667</idno>
+            <idno type="PROQUEST">99871667</idno>
+            <idno type="VID">156241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156241)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anatomy of warre, or, Warre with the wofull, fruits, and effects thereof, laid out to the life: VVherin from scripture, and experience, these things are clearly handled; to wit, 1. What warre is. 2. The grounds, and causes of warre. 3. The things requisite in war, 4. The nature, and miseries of war, both [brace] civill, and forraigne. 5. What things are justly taxed in war. 6. When war is lawfull. 7. Whether it be lawfull for Christians to make war. 8. Whether subjects may take up armes against their soveraignes. 9. The remedies against war. 10. The meanes to be freed from war. 11. The remedies, and meanes both military, and morall for the obtaining of victory in war. / By R. W. Minister of the Word at Stansteed Mount Fitchet in Essex.</title>
+                  <author>Ward, Richard, 1601 or 2-1684.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Dalham, and Rich. Lownds,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R. W. = Richard Ward.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>War --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156241:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE ANATOMY OF WARRE, OR, Warre with the wofull, fruits, and effects thereof, laid out to the life: VVherein from Scripture, and experience, theſe things are clearely handled; to wit,</hi>
+               <list>
+                  <item>
+                     <hi>1.</hi> What Warre is.</item>
+                  <item>
+                     <hi>2.</hi> The grounds, and cauſes of Warre.</item>
+                  <item>
+                     <hi>3.</hi> The things requiſite in War.</item>
+                  <item>
+                     <hi>4.</hi> The nature, and miſeries of War, both Civill, and Forraigne.</item>
+                  <item>
+                     <hi>5.</hi> What things are juſtly taxed in War.</item>
+                  <item>
+                     <hi>6.</hi> When War is lawfull.</item>
+                  <item>
+                     <hi>7.</hi> Whether it be lawfull for Christians to make War.</item>
+                  <item>
+                     <hi>8.</hi> Whether Subjects may take up armes againſt their Soveraignes.</item>
+                  <item>
+                     <hi>9.</hi> The remedies againſt War.</item>
+                  <item>
+                     <hi>10.</hi> The Meanes to be freed from War.</item>
+                  <item>
+                     <hi>11.</hi> The Remedies, and Meanes both Military, and Morall for the obtaining of <g ref="char:V">Ʋ</g>ictory in War.</item>
+               </list>
+            </p>
+            <p>
+               <hi>By</hi> R. W. <hi>Miniſter of the Word at Stanſteed Mount Fitchet in</hi> Eſſex.</p>
+            <q>Hoc &amp; Ratio doctis, &amp; Neceſſitas Barbaris, &amp; Mos gentibus, &amp; ſeris Natura ipſa praeſcripſit, ut omnem ſemper vim quacunque ope poſſent, à corpore, à capite, à vita ſua propulſarent. <bibl>Cicero pro Milone.</bibl>
+            </q>
+            <p>LONDON, <hi>Printed for</hi> Iohn. Dalham, <hi>and</hi> Rich, Lownds.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156241:2"/>
+            <pb n="1" facs="tcp:156241:2"/>
+            <p>
+               <seg rend="decorInit">A</seg>S <hi>Children</hi> through ignorance of the nature, and perill of <hi>Fire</hi> often times fall thereinto, and are burnt: ſo <hi>Men</hi> not acquainted with the nature, and danger of <hi>Warre,</hi> too often deſire it,<note n="(a)" place="margin">Dulce bellum inexpertis.</note> and too ſoone ruſh into it, to their own ruine. And therefore that we may ſee clearly, as in gl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe, the true nature of this heavy plague of <hi>Warre,</hi> which now threatens our deſolation, and the downfall of our Church and State, I have once againe <hi>ſtept</hi> upon the <hi>Stage,</hi> and for the good of my Country, expoſed my ſelfe to the ſight, and cenſure of all eyes and tongues. Omitting wholly what I have handled concerning <hi>Warre,</hi> both in my <hi>Pious m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctiſe in Parliament time;</hi> and in <hi>The Prin<g ref="char:EOLhyphen"/>cipall duty of Parliament men;</hi> and in <hi>The <g ref="char:V">Ʋ</g>indication of the Parlia<g ref="char:EOLhyphen"/>ment, and their proceedings;</hi> I will here for the information of the judg<g ref="char:EOLhyphen"/>ment, the cleaning of the underſtanding, and the ſatisfaction of the conſcience of all thoſe, who will peruſe this Treatiſe, lay down many things, concerning both <hi>Warre</hi> in generall, and <hi>Civill Warre</hi> in parti<g ref="char:EOLhyphen"/>cular; although for brevities ſake I ſhall omitt many things concerning <hi>both,</hi> which might be ſaid, and treat but briefly of thoſe things which I do handle.</p>
+            <p>
+               <hi>Warre</hi> in generall, is a lawfull defence, whereby the ordinary,<note place="margin">What Warre is.</note> and lawfull Magſitrate, for juſt cauſes taking up Armes, doth publickely repell force with force, revengeth publicke, and generall injuries, or recovers generall, or generally ſuſtained loſſes. In this Definition theſe things are obſervable. <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>I.</hi> That <hi>Warre</hi> is not to be undertaken, but for juſt cauſes.</item>
+               <item>
+                  <hi>II.</hi> That it belongs onely unto the Magiſtrate to make <hi>Warre,</hi> and not to private perſons</item>
+               <item>
+                  <hi>III.</hi> That it is not to be moved, but repelled: not kindled, but quen<g ref="char:EOLhyphen"/>ched: that is, rather for defence then offence: for the puniſhing of in<g ref="char:EOLhyphen"/>juries, than the doing of wrong. All which ſhowes evidently <hi>the law<g ref="char:EOLhyphen"/>fulneſſe of the Parliaments Warres,</hi> their <hi>Cauſe</hi> being <hi>Religion,</hi> and the <hi>Republiques good; Themſelves the greateſt Magiſtrates,</hi> and of <hi>greateſt power;</hi> and this <hi>deſigne</hi> of theirs declined as long as poſſibly they could, with the ſafety of the <hi>State.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Q.</hi> 1. It may here be demanded, <hi>What the grounds, &amp; cauſes of Warre are?</hi>
+               <note place="margin">The Cauſes of Warre.</note>
+            </p>
+            <p>
+               <hi>A.</hi> 1. Firſt, in generall, the great <hi>Alexander</hi> being once demanded, why he endeavoured by <hi>Warre,</hi> to be Lord of the whole world, made an<g ref="char:EOLhyphen"/>ſwer; <hi>All the Warres that are raiſed in this world, are for one of theſe three Cauſes; viz, either to have many Gods, many Lawes, or many Kings:
+<pb n="2" facs="tcp:156241:3"/>therefore I deſire by Warr to poſſeſſe the world, and to command it, that all the inhabitants thereof may honour but one God, ſerve but one King, and obſerve but one Law.</hi>
+               <note n="(b)" place="margin">Guevara fa<g ref="char:EOLhyphen"/>miliar. epist pag. <hi>240</hi>
+               </note>
+            </p>
+            <p>
+               <hi>A.</hi> 2. Secondly, and more particularly, Warrs come ſometimes from a <hi>good ground,</hi> or <hi>cauſe,</hi> ſometimes from a <hi>bad bottome,</hi> or <hi>foundation.</hi>
+            </p>
+            <p>Firſt, ſometimes <hi>War</hi> comes from <hi>good grounds,</hi> it being onely or<g ref="char:EOLhyphen"/>dained <hi>to make men live in peace;</hi> whence <hi>Augustine</hi>
+               <note n="(c)" place="margin">Quae non cru<g ref="char:EOLhyphen"/>delitate, aut cu<g ref="char:EOLhyphen"/>piditate, ſed pa<g ref="char:EOLhyphen"/>cis ſtudio gerun<g ref="char:EOLhyphen"/>tur, Aug in libr ele Verb. Dom</note> ſaith, That even amongſt, yea by the true Worſhipers of God, Warrs are often raiſed, and undertaken, <hi>not out of coveteouſneſſe, or cruelty, but out of a true, and ſincere deſire of ſetling peace.</hi> Yea hence the <hi>Emblematiſts</hi> de<g ref="char:EOLhyphen"/>viſed this Hieroglyphicke to expreſſe this truth, <hi>viz,</hi>
+               <note n="(d)" place="margin">Andr. Akiat. emblem. Pag <hi>445</hi>
+               </note> a <hi>Helmet</hi> which had been uſed in <hi>War,</hi> being in time of peace neglected, and laid by, <hi>a ſwarme of Bees</hi> (emblemes of ſweet peace) come and hire, build, and breed therein: the Motto or word was, <hi>ex bello pax. Peace is the off-ſpring of War, or War the Parent of Peace:</hi> much like unto the <hi>ſouldiers ſword,</hi> which in Martiall was turned in the time of peace unto a <hi>Reapers ſicle.</hi>
+            </p>
+            <q>
+               <l>Pax me certa ducis placidos curvavit in uſus:</l>
+               <l>Agricolae nunc ſum, militis ante fui.</l>
+            </q>
+            <p>Secondly, ſometimes <hi>Warr</hi> comes from a <hi>bad bottome,</hi> or <hi>foundation,</hi> yea for the moſt part ſprings from one, or other of theſe evill rootes; to wit, either,</p>
+            <p n="1">
+               <hi>I.</hi> From ſome unbridled pleaſures, and immoderate, and inordinate luſts.<note n="(e)" place="margin">Iam. <hi>4, 1</hi>
+               </note> Or</p>
+            <p n="2">
+               <hi>II.</hi> From diverſity of Religion. For,</p>
+            <p n="1">
+               <hi>I.</hi> Sometimes <hi>Satan</hi> the father, and Prince of Hereſy, ſtirs up Ware againſt the woman. And,</p>
+            <p n="2">
+               <hi>II.</hi> Antichriſt, alwayes having an inteſtine hatred, and bitterneſſe of ſpirit, and mind againſt Chriſt, and his truth, inſtigates, and ſets on work ſtill ſome inſtruments or other, for the oppoſing, diſtracting, and dividing of thoſe places, and perſons who profeſſe the Goſpel. Or</p>
+            <p n="3">
+               <hi>III.</hi> From ſome coveteous deſires, and affections. <hi>The fountaine, and originall of all Warrs, and ſeditions</hi> (ſaith <hi>Plutarch.</hi>
+               <note n="(f)" place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ello <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ac <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; or<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>go, &amp;c, Plutar. con<g ref="char:EOLhyphen"/>ſol. ad Apol</note>) <hi>are the corrupt coveteous deſires of man,</hi> whereby, by hooke, and crook, right or wrong; he purſues after vehemently whatſoever he conceives, to be for his pro<g ref="char:EOLhyphen"/>fit, and advantage. Whence <hi>Seneca</hi>
+               <note n="(g)" place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Prov</note> faith:</p>
+            <q>
+               <l>Si duo de noſtris toll as pronomina rebus.</l>
+               <l>Pralia ceſſarent, pax ſine lite fores.</l>
+            </q>
+            <p>
+               <hi>That is,</hi>
+            </p>
+            <q>
+               <l>Take from the world theſe Pronounes, Mine, and Thine,</l>
+               <l>The Warrs will ceaſe, and peace through th' world will ſhine.</l>
+            </q>
+            <p n="4">
+               <pb n="3" facs="tcp:156241:3"/>
+               <hi>IV.</hi> From ambition, or, a deſire to rule:<note n="(h)" place="margin">Geneſ. <hi>14, 3</hi>
+               </note> It is obſerved by <hi>Eu<g ref="char:EOLhyphen"/>tropius,</hi> and others, that the <hi>Romanes</hi> were 500, yeares in conquering of <hi>Jtaly,</hi> and that for the moſt part; they were ever in their Warrs Aſ<g ref="char:EOLhyphen"/>ſailants, and but ſeldome times Defendants: and why ſo? but onely from their ambition to rule others, and to bring all into their ſubjection. Yea what but <hi>ambition,</hi> and a deſire of <hi>ſupreame Soveraigrty</hi> was the cauſe of all <hi>Alexanders,</hi> and the great <hi>Turkes</hi> Warrs?</p>
+            <p n="5">
+               <hi>V.</hi> Warrs alwayes, at leaſt on one part, or in regard of one ſide comes from ſome ſinne or other: according to that of <hi>Plutarch.</hi>
+               <note n="(i)" place="margin">Nullum omnins bellum, cujus vitium aliquod non ſit cauſa, <hi>&amp;c</hi> plut. de repugn. Stoic.</note> 
+               <hi>There is no Warr whereof ſome ſinne, or vice is not the cauſe; viz,</hi> either pleaſure, coveteouſneſſe, ambition, deſire to rule, or the like.</p>
+            <p n="6">
+               <hi>VI</hi> As Warrs come from ſome ſinne or other of thoſe who raiſe them, ſo they come from or for the ſinnes of thoſe againſt whom they are raiſed: for the ſword is ſent by God unto a people for their ſinnes, and is there<g ref="char:EOLhyphen"/>fore the puniſhment of ſin. Yea ſin is <hi>Cauſa ſine qua non,</hi> ſuch a cauſe of <hi>all Warrs,</hi> that <hi>no Nation</hi> ſhould be annoied <hi>with any,</hi> if it were not for their ſins.<note n="(k)" place="margin">
+                  <hi>Levit.</hi> 26, 24, 25: <hi>Deut</hi> 28, 36, 49 <hi>Iud:</hi> 2, 13 <hi>&amp;</hi> 3, 1, 8, <hi>&amp;</hi> 4 1, <hi>&amp;</hi> 6, 1, <hi>&amp;</hi> 10, 6, <hi>&amp;</hi> 13, 1 <hi>&amp;</hi> 1, <hi>King</hi> 8, 33, <hi>Jſa.</hi> 5, 25, <hi>Ier.</hi> 5 15</note>
+            </p>
+            <p>
+               <hi>Qu.</hi> 2. Having thus curſorily run over the <hi>grounds</hi> or <hi>cauſes of Warr,</hi> in the next place we will conſider <hi>Requiſita, what, or how many things are requiſite in Warr?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I may anſwer hereunto, either as a <hi>Souldier,</hi> or as a <hi>Scholler.</hi>
+               <note place="margin">The things required in Ware.</note>
+            </p>
+            <p>Firſt, if I ſhould anſwer this as a <hi>Souldier,</hi> or as a <hi>Scholler in Mars his Schoole,</hi> then I might ſay, as <hi>Braſidas</hi> was wont to ſay,<note n="(k)" place="margin">Thu yd. <hi>l, 5,</hi> S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſerm <hi>52</hi>
+               </note> That theſe three things are requiſite, and neceſſary in Ware: to wit,</p>
+            <p n="1">
+               <hi>I. To be willing to fight:</hi> for if a man hunt with unwilling hounds, he will ſcarrely ever catch the hare, and if a man fight againſt his will, he will hardly endeavour as he ought to overcome him, or them, with, or againſt whom he fights. And,</p>
+            <p n="2">
+               <hi>II. To feare diſgrace, and ſhame:</hi> for if he be ſhameleſſe, and feareleſſe of diſgrace, he will quickly flee, and forſake his colours. And,</p>
+            <p n="3">
+               <hi>III. To be obedient to Commanders;</hi> for if the ſouldier do not obey his Captaine, and Commanders, he will quickly be diſranked; he may quickly be ſlaine, or taken by the enemy: and cannot performe any good ſervice for him, under whom he fights.</p>
+            <p>
+               <hi>A.</hi> 2 Secondly, if I ſhould anſwer this as a <hi>Divine,</hi> or as a <hi>Scholler in Chriſts Schoole,</hi> then I muſt ſay, that theſe three things are required in every lawfull Ware, <hi>viz.</hi>
+            </p>
+            <p n="1">
+               <hi>I. A lawfull Authority commanding it;</hi> for Warr muſt not be at<g ref="char:EOLhyphen"/>tempted without the Authority of the Magiſtrate.</p>
+            <p n="2">
+               <hi>II. A juſt, and lawfull end, or cauſe, occaſioning, and moving it.</hi> Now
+<pb n="4" facs="tcp:156241:4"/>what the lawfull <hi>Cauſes</hi> of <hi>Warre</hi> are and when <hi>Warre is lawfully un<g ref="char:EOLhyphen"/>dertaken</hi> followes by and by.</p>
+            <p n="3">
+               <hi>III. A good affection in following</hi> it, or a due conſideration of the manner of the enterpriſing, and proſecuting of it: for although the cauſe of <hi>Warre</hi> be juſt, yet it muſt not be raſhly ſet upon, but all other meanes muſt firſt be tried.<note n="(l)" place="margin">
+                  <hi>Iudg.</hi> 10.13. 2 <hi>King.</hi> 18.14.</note>
+            </p>
+            <p>
+               <hi>Qu.</hi> 3.<note place="margin">The nature and miſeries of Warre.</note> It may now be enquired, <hi>What the Nature of Warre is?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. Firſt, <hi>Warre</hi> is ſometimes the whet-ſtone of fortitude, and the en<g ref="char:EOLhyphen"/>courager, and ſtirrer up of youth unto <hi>Martiall diſcipline.</hi> When the King of the <hi>Lacedaemonians</hi> did threaten, that he would utterly deſtroy and raze a certaine Citie, which had often annoyed the <hi>Laccdaemoniant,</hi> &amp; found them work, the <hi>Ephori</hi> would not permit it, ſaying<note n="(m)" place="margin">Nequaquam abolobis, neque ſub<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es juve<g ref="char:EOLhyphen"/>num cotem, Plutar. in Lacon. Bruſo lib. <hi>3.</hi> c. <hi>15</hi>
+               </note> 
+               <hi>Thou ſhalt not deſtroy, nor aboliſh the Whet-ſtone of youth:</hi> calling thus that Citie which ſo often troubled them, <hi>the Whet-stone of youth:</hi> becauſe their <hi>young men</hi> thereby were <hi>whetted,</hi> and their <hi>affections jet on edge to</hi> be skilfull in the art of <hi>Warre,</hi> ſeeing there were thoſe ſo neare them, who would try both their skill, and ſtrength upon every occaſion, and advantage.</p>
+            <p>
+               <hi>A.</hi> 2. Secondly, moſt commonly <hi>Warre is evill;</hi> whence the Scripture ſometimes calls it, <hi>a grievous evill. Iſa.</hi> 21.15. ſometimes <hi>an oppreſſing evill. Jerem.</hi> 46.16. ſometimes <hi>a bitter evill.</hi> 2. <hi>Sam.</hi> 2.26. ſometimes <hi>a devouring evill.</hi> 2. <hi>Sam.</hi> 2.26. <hi>Ier.</hi> 50.22. ſometimes <hi>an evill which pierceth unto the heart, and ſoule. Ierem.</hi> 4.10.</p>
+            <p>
+               <hi>A.</hi> 3. Thirdly, <hi>Warre</hi> is of that nature that few are enriched thereby, as appeares thus; If any grow rich by <hi>Warre,</hi> then it is thoſe who gather the ſpoiles thereof; but ſeldome theſe; therefore few or none. We ſay, <hi>Male parta, malè dilabuntur;</hi> goods ill got waſt like ſnow before the ſun: as money wonne at playe, or got by theft. Yea lawfull prey, for pillage is ſeldome long enjoyed, according to our <hi>Engliſh</hi> Proverbe, <hi>Gightly come, Cightly go;</hi> or, to the <hi>Greek</hi> Adage <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I got this booty in the warrs from an enemie, and therefore I may ſpend it the more freely.</p>
+            <p>
+               <hi>A.</hi> 4 Fourthly, <hi>Warre</hi> is the cauſe of all innovations, alterations, and mu<g ref="char:EOLhyphen"/>tations in a State, they being ſtill brought in by the ſword, or an o<g ref="char:EOLhyphen"/>verawing power. Whence <hi>Lucian</hi> ſaith, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Warre is the father of all things,</hi> or the Author of all changes in States, and Kingdomes, from which all things ſeeme to proceed. Hiſtorians obſerve, that there is a viciſſitude, and intercourſe of all things, and that once in a 100 or at leaſt in 400. yeares there is ſome great change, and alteration in all governments, and States, either in <hi>Religion,</hi> or <hi>manner
+<pb n="5" facs="tcp:156241:4"/>of government,</hi> or <hi>Governours,</hi> which change whatſoever it is, ſeldome comes but by <hi>Warre.</hi> As for example, if <hi>curs</hi> or <hi>any Proteſtant Prince</hi> ſhould deſire to introduce, or ſet up Popery, it would very hardly be don but by the <hi>ſword;</hi> and a <hi>ſtrong power; Warre</hi> producing all innovations, and mutations in States.</p>
+            <p>
+               <hi>A</hi> 5 Fiftly, <hi>Warre</hi> is a miſerable plague; whence this word <hi>Warre</hi> in the <hi>Hebrew</hi> tongue, hath its name from <hi>cutting, biting,</hi> and <hi>devouring,</hi> be<g ref="char:EOLhyphen"/>cauſe warrs devoure, and conſume many. Hence the <hi>ſword</hi> is ſaid to have <hi>a mouth,</hi> that is, <hi>an edge.</hi>
+               <note n="(m)" place="margin">
+                  <hi>Iob</hi> 1, 15, <hi>Hebr.</hi> 11, 34</note> and <hi>to eat</hi>
+               <note n="(n)" place="margin">
+                  <hi>Iob</hi> 2, <hi>Sam.</hi> 11, 25</note> that is, <hi>to kill.</hi> Warre is one of Gods 4 fierce, and devouring plagues:<note n="(o)" place="margin">
+                  <hi>Ezeth.</hi> 14.21</note> yea one of his 3. ſoreſt judgments<note n="(p)" place="margin">
+                  <hi>Ezeth.</hi> 2, <hi>Sam.</hi> 24, 13, 14</note> and ſeemes to be the greateſt of all the 3. or 4.<note n="(q)" place="margin">
+                  <hi>Levit.</hi> 26, 16 17, 25, 33 <hi>Deut.</hi> 28, 48, &amp;c</note>
+            </p>
+            <p>
+               <hi>Qu.</hi> 4. Some may here ſay, <hi>If Warre be of this nature, then what may we thinke thereof?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. Firſt, we may ſafely thinke, <hi>that ſome Warre is lawfull;</hi> for (as <hi>Au<g ref="char:EOLhyphen"/>gustine</hi> ſaith,)<note n="r" place="margin">Si Chriſtiana diſciplina omnia bella culparot, <hi>&amp;c</hi> Aug. in ſtrm de Centur</note> If Chriſtianity ſhould blame, or taxe all warrs, then when the ſouldiers asked Chriſt what they ſhould do for the ſalvation of their ſoules, he would undoubtedly have bidden them to caſt away their weapons, and to give over Warre, which he doth not but onely <hi>forbids them to wrong any,</hi> and <hi>bids them be content with their wages:</hi> which ſhowes plainely, <hi>that ſome Warrs are lawfull,</hi> and therefore not all to be condemned.</p>
+            <p>
+               <hi>A.</hi> 2. Secondly, we may thinke <hi>that the event of Warris moſt uncertaine;</hi> and therefore they are much miſtaken who expect from the Warrs no<g ref="char:EOLhyphen"/>thing but good news, and proſperous ſucceſſe in all deſignes, and en<g ref="char:EOLhyphen"/>terprizes,<note n="(s)" place="margin">Errant qui in bello omnes ſeou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>dos rerum even<g ref="char:EOLhyphen"/>tus expectant, Iul. Caeſ. Comm. lib. <hi>7</hi>
+               </note> for <hi>he who puts on his armour muſt not bragge, as he that puts it off. Philip of Macedon</hi> warring upon the <hi>Grecians, Diogenes:</hi> came into his tent, and being conducted to the Emperour, and asked <hi>if he were a South-ſayer, or Fortune-teller?</hi> anſwered<note n="(t)" place="margin">S<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>itiae vani<g ref="char:EOLhyphen"/>tatiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tuae ſum verus ſpeculator, <hi>&amp;c</hi>
+               </note> 
+               <hi>yes I am a true Fore-teller, and Fortune-teller of thy folly, and vanity,</hi> who (when none compells thee) comes to hazard thy life, and Kingdome, and to caſt the dice of warr, whether thou ſhalt live or not, and whether thou ſhalt have a Kingdome at command, or to poſſeſſe or not. When 2. Armies are in the fields, we ſee both of them to have warlike weapons, and both to have humane bodies<note n="(v)" place="margin">Virinque fer<g ref="char:EOLhyphen"/>rum, &amp; cerporae humana erunt: nuſ quam minus quam in bello e<g ref="char:EOLhyphen"/>ventus reſpon<g ref="char:EOLhyphen"/>dent, Liv. lib. <hi>3</hi>
+               </note>; and not the one of them to be armed, and the other naked, and the one mortall, but the other immortall; and therefore ſucceſſe, event, and expectation, never deceive us, or fruſtrats our hope ſo much, in any thing as in <hi>Warr.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 3. Thirdly, we may thinke of <hi>Warr, that it is a thing not to be deſired;</hi> and that none delights in the ſound of the warlike <hi>Drums,</hi> or in the the Alarmes of Warr; but onely they who never taſted the bitterneſſe thereof<note n="(w)" place="margin">Dulce bellum non expertis, at quiguſtavit, co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>trem: ſcit animo quoties adven<g ref="char:EOLhyphen"/>tans illud videt. pindar. apud S. ob.</note> for he who hath once felt the ſmart of it, will tremble as
+<pb n="6" facs="tcp:156241:5"/>oft as he thinks of its approach, or ſummous therunto. And therfore we muſt uſe all our beſt skill, and cunning alwayes to avoide warr as much as poſſibly we can,<note n="(x)" place="margin">Adverſarioru<g ref="char:cmbAbbrStroke">̄</g> pug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a prudenter declinanda, Greg in mor</note> it being a thing of that nature, that no wiſe man will deſire it, nor willingly (when he can, and may avoide it) caſt himſelfe into <hi>Mars</hi> his armes, or expoſe himſelfe to the mercy of his enemies ſword, and his body, and life to perill, ſeeing it is not in our power to overcome or conquer, the iſſue of all warr being doubtfull, and hazardous.<note n="(y)" place="margin">Sapientis non est velle certare, &amp; periculo ſe velle committere <hi>&amp;c</hi> Lactant. l <hi>6</hi>
+               </note>
+            </p>
+            <p>
+               <hi>A.</hi> 4. Fourthly, we may well thinke, <hi>that Warr is not ſo eaſily ended as begun;</hi> and that all ſhould take notice of this who undertake Ware, that it is eaſily begun, but hardly ended, eaſy to enter into, but hard to get out of, (like a curious drawn Garden maze) the beginning and ending not being in the ſame mans power:<note n="(z)" place="margin">Scito omne bellum ſum faci<g ref="char:EOLhyphen"/>le, caeterum aeger<g ref="char:EOLhyphen"/>rimè deſinere, <hi>&amp;c</hi> Saluſt. in Iugurth</note> for every coward, or freſh water ſouldier may begin Ware, but it is laid aſide, when the Conquerour will.<note n="(a)" place="margin">Bellum inci<g ref="char:EOLhyphen"/>pere cuivis ctiam ignavo licet. de<g ref="char:EOLhyphen"/>ponitur cum vi<g ref="char:EOLhyphen"/>ctores velint, Tull. in quaeſt</note>
+            </p>
+            <p>
+               <hi>A.</hi> 5. Fiftly, we may thinke, <hi>that Warr is ſuch a thing, that to be free from it, is a great bleſſing, and happineſſe,</hi> and ſo pronounced to be by God. <hi>Iſa.</hi> 2.4. <hi>Mich.</hi> 4 3. And therefore is never to be attempted, but upon immergent neceſſity.</p>
+            <p>
+               <hi>A.</hi> 6. Sixthly, we may thinke this of Ware to wit, <hi>That if peace may be procured, Warr is not to be waged;</hi> as <hi>Marcian</hi> the Emperour was wont to ſay<note n="(b)" place="margin">Imperatoriar, ma non eſſe ca<g ref="char:EOLhyphen"/>pienda, dum pace<g ref="char:cmbAbbrStroke">̄</g> habere liceret, Zo. naras to. <hi>3,</hi> Ann</note> Kings muſt not take up Armes againſt their ſubjects or any, ſo long as they may live quietly, and in peace.</p>
+            <p>
+               <hi>A.</hi> 7. Seventhly, we may thinke of Warr, <hi>that it ought not to be un<g ref="char:EOLhyphen"/>dertaken raſhly, or unadviſedly, but with moſt mature deliberation;</hi> and that before we begin Ware, we ſhould well conſider what may happen in Ware<note n="(c)" place="margin">Quiequid eve<g ref="char:EOLhyphen"/>nire in bedo po<g ref="char:EOLhyphen"/>test, priuſquam ingrediare conſi<g ref="char:EOLhyphen"/>dera, Thucyd. l. <hi>1</hi>
+               </note> and not onely thinke with our ſelves, what power, and ſtrength we have: but what the power of chance, or common fate of Ware is, or may be.<note n="(d)" place="margin">cum tuas vires, tumvim fortunae, Martomque belli communem pro<g ref="char:EOLhyphen"/>pone animo, Liv. lib. <hi>30</hi>
+               </note>
+            </p>
+            <p>
+               <hi>A.</hi> 8. Eighthly, we may ſafely thinke of Ware, <hi>that it is evill, or a great judgment, or an evill, alwayes in ſome regard.</hi> The <hi>Aeolians</hi> in<g ref="char:EOLhyphen"/>tending to ayd the <hi>Argives</hi> in their Warrs, <hi>Archidamus</hi> writ a letter unto them, wherein were onely theſe words, <hi>Quietneſſe is good;</hi> and therefore if that be (as indeed it is) moſt true, then by the rule of con<g ref="char:EOLhyphen"/>traries it will follow, <hi>that War is evill.</hi> Yea Warr ſimply conſidered, and in it ſelfe, may be reckoned in the number of <hi>evills;</hi> that is, either
+<list>
+                  <item>I. <hi>Of evill of ſinne,</hi> for it cannot be juſt on both ſides. Or</item>
+                  <item>II. <hi>Of evill of puniſhment;</hi> for it was ever held <hi>a ſcourge of God;</hi> and is onely therefore eſteemed <hi>good,</hi> becauſe we are <hi>bad.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="7" facs="tcp:156241:5"/>
+            <p>Ninthly, we may think from the word of God that the war wherby whole Kingdomes are infeſted, waſteſt, and deſtroyed, comes not by chance, but by the purpoſe, permiſſion, and providence of God, for the puniſhment of mens ſinnes<note n="(a)" place="margin">
+                  <hi>Leu.</hi> 26.17.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.31. &amp;c. 2 Sam. 17.24.12 13. Pſal. 46.9.10</note>. And thus by theſe particulars we may gheſſe <hi>at the nature of war,</hi> and ſee a little what we may think thereof: We will now briefly lay downe</p>
+            <p>
+               <hi>Quest.</hi> 5. What things are juſtly taxed in warre?</p>
+            <p>
+               <hi>Anſ.</hi> 1. <hi>An implacable deſire of revenge,</hi> or to miſcheeve thoſe with, or againſt whom we fight: For although we may puniſh offences, yet we muſt not revenge our ſelves; and I conceive that in war we ſhould bee more ready and inclinable to ſpare when wee can take, and with ſafety keep alive, than to kill; eſpecially when the warre is undertaken for the puniſhment of <hi>Delinquents,</hi> becauſe then if we keep them alive, they may fall by the ſword of juſtice in the Magiſtrates hands as well as by us in battell; and therefore they who have no mercy upon any in war are juſtly taxed.</p>
+            <p n="2">2. <hi>Cruelty in revenging,</hi> and puniſhing in warre is juſtly taxed, for although a man may kill his enemy in battell, yet he ſhould not de<g ref="char:EOLhyphen"/>light in uſing cruelty towards him, by deviſing new or ſtrangetor<g ref="char:EOLhyphen"/>ments to make him die.</p>
+            <p n="3">3. <hi>Covetouſneſſe of prey</hi> and <hi>pillage</hi> is taxed in warre; for although it is not a ſin to fight in war, yet to fight or war only for prey or pil<g ref="char:EOLhyphen"/>lage, is a crime<note n="(b)" place="margin">Militare non eſt deli<g ref="char:EOLhyphen"/>ctum, ſed prop<g ref="char:EOLhyphen"/>ter praedam militare, pec<g ref="char:EOLhyphen"/>catum eſt. Ambroſ.</note>.</p>
+            <p n="4">4. <hi>Ambitious deſires to rule,</hi> or poſſeſſe the Thrones and Crownes of others, are juſtly taxed in war. A Philoſopher preſenting <hi>Antigo<g ref="char:EOLhyphen"/>nus</hi> with a book, <hi>de juſtititia,</hi> concerning juſt and upright dealing be<g ref="char:EOLhyphen"/>tween man and man, he ſaid<note n="(c)" place="margin">Deſipis, qui cum me vi<g ref="char:EOLhyphen"/>deas alienas u<g ref="char:EOLhyphen"/>bes armis vex<g ref="char:EOLhyphen"/>antem, tamen apud me de ju<g ref="char:EOLhyphen"/>ſtitia diceris. Eraſm. lib. 4. Apoph. ex Pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>, <hi>Thou art a foole in graine oh Philoſo<g ref="char:EOLhyphen"/>pher, who when thou ſeeſt me oppreſsing with war ſtrange Cities, telſt me of justice and upright dealing:</hi> Implying thus much, That they who for the enriching of themſelves, or for the enlarging of their Territories, or for the glory of their Name, ſeek other mens Cities and Crownes, can<g ref="char:EOLhyphen"/>not obſerve the Lawes of righteouſneſſe. And therfore this ambitious deſire is in war juſtly worthy of blame.</p>
+            <p>
+               <hi>Quest.</hi> 6. I will now lance this plague ſoare of <hi>War,</hi> and touch it to the quick, in and by this <hi>quere; What the miſeries of war are?</hi>
+            </p>
+            <p>The miſeries and miſerable fruits and effects of war are many and great; as for example.</p>
+            <p>
+               <hi>Anſw.</hi> 1. <hi>In war the moſt wicked are held the moſt warlike,</hi> yea, ex<g ref="char:EOLhyphen"/>cept a man be exorbitantly wretched, he is ſcarce eſteemed a reſolute and right bred ſouldier; for as a plough-man except he be crooked and
+<pb n="8" facs="tcp:156241:6"/>bending to his labour, doth never make cleare work, nor furrow his land handſomely, as the Jewes were wont to ſay; ſo except a ſouldier can ſweare, ſwagger, raviſh Maids, deflower Matrons, and play the villaine in graine, he is ſcarcely counted a man at armes in theſe corrupt times.</p>
+            <p n="2">2. <hi>War continued, or long wars make men inhumane,</hi> for <hi>conſuetudo peccandi tollit ſenſum peccati,</hi> that is,</p>
+            <p>
+               <hi>At firſt ſinne ſeemes to us loathing, but often ſinning makes ſinne ſeeme nothing;</hi> reade and compare together, 2 <hi>King</hi> 8 12.13. with 10.32.33. where before <hi>Hazael</hi> ever truly entred into the wars, he thought he could never be ſo cruell, <hi>as to daſh the childrens braines againſt the ſtones,</hi> as the Prophet foretold; but afterwards when he was inured with warre, he did it. And thus the continuall warres which the <hi>Sicilians</hi> had, made them <hi>like ſavage beaſts,</hi> as <hi>Plutarch ſaith.</hi>
+            </p>
+            <p n="3">3. <hi>Warre brings populous Cities to utter deſtruction, and deſolation</hi>
+               <note n="(a)" place="margin">
+                  <hi>Ierem.</hi> 18.2. <hi>Hoſe.</hi> 5.8.9.</note>; as we ſee by <hi>Fridericus Oenobarbus,</hi> who when he had overthrown <hi>Mil<g ref="char:EOLhyphen"/>lain,</hi> ſowed ſalt there, and harrowed it, to ſhew that that City was brought to utter deſtruction.</p>
+            <p n="4">4. <hi>War brings miſery, and deſperate diſtractions upon, and unto that Kingdome were it is:</hi> For, as the Sea (though vaſt and great) is toſſed and troubled when the winds ſtrive and rage; ſo when Kings con<g ref="char:EOLhyphen"/>tend, and make war one upon another, their whole Kingdoms are diſ<g ref="char:EOLhyphen"/>quieted, perplext and vext<note n="(b)" place="margin">Quemadmo dem certanti<g ref="char:EOLhyphen"/>bus veatis ma<g ref="char:EOLhyphen"/>re concuritur, ſic Reg bus ſibi adverſantibus, populus regni vexatur. <hi>Chryſoſt in Matth.</hi>
+               </note>.</p>
+            <p n="5">5. <hi>War waſts that in an inſtant, which was long a finiſhing,</hi> and <hi>ruines</hi> in a <hi>trice</hi> what was <hi>long a re-edifying;</hi> for as <hi>Heroſtratus,</hi> an obſcure and baſe man, could eaſily burn the Temple of <hi>Diana</hi> of the <hi>Epheſi<g ref="char:EOLhyphen"/>ans,</hi> which was 220 yeeres abuilding of all <hi>Aſia,</hi> at the coſt of many Kings, and beautified with the cunning labours of many excellent workmen; ſo it is moſt caſie in war, by fire and ſword quickly to ſub<g ref="char:EOLhyphen"/>vert famous and admired Cities, as we ſee by <hi>Niniveh, Jeruſalem</hi> and others, and ſhall ſee (we hope) by <hi>Rome.</hi> Wofull experience in poore <hi>Ireland</hi> ſhewes that warre waſts and conſumes all whereſoever it comes, whether Townes, Cities, Villages, Corne-fields, Vine-yards, Forts, Orchards, and whatſoever is neceſſary for the ſuſtentation of man.</p>
+            <p n="6">6. <hi>Warre ſpares none, neither man, woman, nor child,</hi> neither young nor old: Virgins and Wives in warre are raviſhed and vitiated: In<g ref="char:EOLhyphen"/>fants are trampled without pity or mercy under the horſe feet, or toſſed upon ſpeares points: Women with child are often cut up and diſ<g ref="char:EOLhyphen"/>fected.</p>
+            <p n="7">
+               <pb n="9" facs="tcp:156241:6"/>7. War expoſeth all things to prey, plundering and pillage. And</p>
+            <p n="8">8. Caſteth, or carrieth thoſe who are left unflaine into exile, capti<g ref="char:EOLhyphen"/>ty, baniſhment, and bendage.</p>
+            <p>And thus I have briefly ſhewed <hi>the nature</hi> and <hi>miſery of War in gene<g ref="char:EOLhyphen"/>rall:</hi> I will now proceed to the confideration of <hi>Civill-war,</hi> wherein firſt we will take a view of the <hi>nature,</hi> then of the <hi>miſery</hi> thereof.</p>
+            <p>
+               <hi>Queſt.</hi> 7. What is the <hi>nature</hi> of <hi>Civill war?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. <hi>It is a miſery of miſeries,</hi> for when wars arife in a Com<g ref="char:EOLhyphen"/>monwealth, great calamities do invade that place, both publikely and privatly<note n="(c)" place="margin">Cum ori<g ref="char:EOLhyphen"/>untur bella, et publice &amp; pri<g ref="char:EOLhyphen"/>vatim magnae urbem calami<g ref="char:EOLhyphen"/>tates invadunt Plato lib. 1. de lege.</note>: war being like a ſwelling and overflowing ſtreame and tide, which ſcatters, waſts, overturnes and beates down all things be<g ref="char:EOLhyphen"/>fore it; much more Civill wars, wherein one part of the Land wars up<g ref="char:EOLhyphen"/>on, or againſt another, as it is now in <hi>Ireland,</hi> and begun in <hi>England</hi>
+               <note n="(d)" place="margin">Bellum torrentis inſtar omnia ſlernit, &amp; vaſtat. Plut. de educat. puer.</note>. In Civill wars nothing but miſery can be expected, for if the <hi>worſt part</hi> prevaile, their mercies are cruell, and if the <hi>better ſide</hi> get the <hi>better,</hi> yet it cannot be without much loſſe and blood-ſhed of the Inhabitants of the Land<note n="(e)" place="margin">Omnia in bellis civilibus miſera, &amp;c. Tul. ad Ma. Mare.</note>: And therefore <hi>Civill</hi> (or <hi>uncivill</hi>) <hi>wars is a miſery of miſeries.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> 8. But may ſome ſay, <hi>What are the miſeries of Civill war?</hi>
+            </p>
+            <p>Many and great, as namely,</p>
+            <p>
+               <hi>Anſw.</hi> 1. <hi>Civill war is not eaſily appeaſed, nor quickly quieted, but once begun continues long;</hi> For as the wings of birds though clipt, doe ſpeedily grow out againe, ſo the <hi>fire</hi> of <hi>Civill war</hi> once <hi>kindled,</hi> is not eaſily <hi>quenched,</hi> but although it be raked up for ſome time in the eni<g ref="char:EOLhyphen"/>bers of ſeeming reconciliation, yet upon every occaſion it breaks forth againe.</p>
+            <p n="2">2. <hi>Civill war is the waſting of the ſubject, and brings the Inhabitants of the land into a conſumption:</hi> For as Dragons ſucking the blood of Elephants, kill them, and they in like manner being drunk with their blood are ſqueeſed in peeces by the fall of the Elephant, and ſo die; ſo oftentimes, yea for the moſt part in <hi>Civil war,</hi> both parts doe deſtroy and are deſtroyed, and both ſides doe endammage and are endam<g ref="char:EOLhyphen"/>maged<note n="(f)" place="margin">Plin. lib. 8. Chap. 12.</note>.</p>
+            <p n="3">3. <hi>Civill war exhausts the exchequer,</hi> or brings the Treaſure or riches of the Land into an <hi>Hectique Fever,</hi> being like a veſſell tapt at both ends, which quickly runs out. This we ſee to our griefe both in <hi>Ireland</hi> and at <hi>home.</hi>
+            </p>
+            <p n="4">4. <hi>Civill war is the overthrow of all Eſtates and Monarchies,</hi> as ap<g ref="char:EOLhyphen"/>peares by the Roman Empire, and the <hi>Macedonian</hi> Monarchy of <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> the Great.</p>
+            <p n="5">
+               <pb n="10" facs="tcp:156241:7"/>5. <hi>Civill wars beget corruption of manners,</hi> and makes wicked men and deceivers grow daily, by much, worſe and worſe. And</p>
+            <p n="6">6. <hi>It begetteth a change of Lawes,</hi> for as <hi>ex malis moribus bonae leges,</hi> good Lawes come from evill cuſtomes and corrupt converſation, if the good ſide or party prevaile, but the enſlaving and envaſſalling of the ſubject by a Law, if the worſe win the Field.</p>
+            <p n="7">7. <hi>Civil war expoſes or layes a Land open unto the rage and fury of others,</hi> or invites forraigne Forces, and power to endeavour the con<g ref="char:EOLhyphen"/>quering and ſubduing of them: For as the Eagle and Crane doe ſo vehemently contend and ſtrive, that oftentimes claſping together in the aire they fall down unto the earth and are taken up alive of Shepherds; ſo now and then it commeth to paſſe, that whilſt Princes perverſly ex<g ref="char:EOLhyphen"/>erciſe mortall and deadly wars againſt their ſubjects, another invader when he finds him ſufficiently weakned, puts in for a hand or lot, and carries all away; The Emblematiſts have obſerved this, and diſcribed it by a Lyon and wild Bore, who fight ſo long for victory or maſtery, that at length they both become a prey unto the Vulture, who awaits them untill they have ſo weakned one another that they are unable to de<g ref="char:EOLhyphen"/>fend themſelves; the word is, <hi>Ex damno alterius, alterius utilitas,</hi> The loſſe of the Inhabitants in Civill and uncivill wars is the gaine of for<g ref="char:EOLhyphen"/>ragn Invaders.</p>
+            <p n="8">8. <hi>Civill war beget want of reverence towards God,</hi> for the madneſſe and outrage thereof is ſuch and ſo great, that it profanes and polutes every holy thing and place<note n="(g)" place="margin">Bellorum civilium inſa<g ref="char:EOLhyphen"/>nia omne ſanc<g ref="char:EOLhyphen"/>tum &amp; ſacrum profanatur. Sen. lib. 1. de benef cap. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>; neither times, places, nor perſons, that is, neither the Lords day, nor his Houſe, nor his Deputies the Magi<g ref="char:EOLhyphen"/>ſtrates, nor his Meſſengers the Miniſters, being regarded by rude <hi>un<g ref="char:EOLhyphen"/>civill ſouldiers</hi> in <hi>Civill wars.</hi>
+            </p>
+            <p n="9">9. Civill war makes that King who undertakes unjuſt wars againſt his ſubjects to repent him of his victory, when he truly ſees what hee hath done; and he overcomes in Civill wars wofully who repents him of his victory: and had therefore much better pardon his ſubjects if they doe offend him, then repent after Conqueſt the ſlaughter and deſtruction of them<note n="(h)" place="margin">Malè vicit quipaenitet vi<g ref="char:EOLhyphen"/>ctoriae. Melius eſt enim igno<g ref="char:EOLhyphen"/>ſcere quam poſt victoriam pae<g ref="char:EOLhyphen"/>nitere, Senec. epiſt. 15.</note>.</p>
+            <p n="10">10. <hi>Civill war maketh many poore,</hi> according to that of <hi>Antisthenes,</hi> to whom one ſaying, <hi>That in wars the poore periſh,</hi> anſwered<note n="(i)" place="margin">Imò tum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lures fiunt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tob. ſerm. 48.</note>; <hi>Nay, in war the poore are multiplied,</hi> many being impoveriſhed thereby, as we finde it true both in this Land and in <hi>Ireland.</hi>
+            </p>
+            <p n="11">11. <hi>Civill war brings good and bad into miſery,</hi> or the ſword of civill warre wounds, yea murders both the innocent and guilty: for when the fire or flame thereof breaks forth in a Land, both guilty and
+<pb n="11" facs="tcp:156241:7"/>guiltleſſe, both wicked and righteous, feele equally the ſmart, and miſery thereof;<note n="(i)" place="margin">Vbi belium civile ing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uir, innocentes; &amp; novi juxta ca<g ref="char:EOLhyphen"/>dunt Tac. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hi.</note> 
+               <hi>neither love nor hatred being knowne by any externall thing.</hi>
+               <note n="(k)" place="margin">Ecleſ. 9.1.</note> And thus by theſe particulars we may eaſily gheſſe at the <hi>Nature</hi> and <hi>Miſery</hi> of <hi>civill warres.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> 9. It may in the next place be demanded, <hi>when warre is law<g ref="char:EOLhyphen"/>full?</hi> or, ſeeing that ſometimes it is lawfull to fight, and ſometimes not, how may we know when, with the peace of a good conſcience, we may wage warre, or aid and aſſiſt thoſe who fight?</p>
+            <p>
+               <hi>Anſw.</hi> 1. <hi>War is lawfull when it is for Religion, and the Republicks good.</hi> When Pope <hi>Eugenius</hi> offred to beſtow ſome Cities upon <hi>Al<g ref="char:EOLhyphen"/>phonſus,</hi> becauſe he had recovered <hi>Picenum,</hi> and ſubjected it to the Sea of Rome, he anſwered, <hi>That he neither fought for profit nor prey, but only for Religion and the Churches cauſe.</hi>
+               <note n="(l)" place="margin">Se nequaqua<g ref="char:cmbAbbrStroke">̄</g> quaeſtus aut praedae, ſed ec<g ref="char:EOLhyphen"/>cleſiae gratia liane expeditic<g ref="char:EOLhyphen"/>nem ſuſcepiſce. Panorn lib. 3 de reb. geſt. Al<g ref="char:EOLhyphen"/>phon.</note> And</p>
+            <p n="2">2. <hi>When it is to procure the continuance and ſetling of peace and quiet<g ref="char:EOLhyphen"/>neſſe.</hi> Men prepare war, when they deſire peace, becauſe (as we ſay in a proverb) <hi>weapons bode peace,</hi>
+               <note n="(m)" place="margin">qui deſide<g ref="char:EOLhyphen"/>rat pacem, prae<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rat bellum. Vigetius.</note> yea wars are undertaken that men may live in peace without injury and oppreſſion.<note n="(n)" place="margin">ſuſcipienda bella ſunt ut in Pace ſine inju<g ref="char:EOLhyphen"/>ria vivetur. Tul. 1. offic.</note> And as men ſuſtaine and endure hard labour upon hope of reſt and eaſe, ſo wiſe men make warre in hope, and for the effecting of tranquility and peace.<note n="(o)" place="margin">Sapientis pacis cauſa bel<g ref="char:EOLhyphen"/>lum gerunt ut laborem ſpe o<g ref="char:EOLhyphen"/>tir ſuſtentant. Saluſt. ad Caeſ.</note> Indeed men doe not deſire peace, that war may follow, but make war that peace may be obtained: Let thoſe therefore who wage war with or againſt any, be peace-makers in their warring; that is, by labouring to overcome thoſe againſt whom they fight and con<g ref="char:EOLhyphen"/>tend, that ſo they may bring them to embrace the ſweet and profitable conditions of peace<note n="(p)" place="margin">Non quaeri<g ref="char:EOLhyphen"/>tur pax ut bel<g ref="char:EOLhyphen"/>lu<g ref="char:cmbAbbrStroke">̄</g> exerceatur, ſed bellum ge<g ref="char:EOLhyphen"/>ritur, ut pax acquiratur. eſto ergo be lando pacificus, ut eos quos ex pugnas, ad pa<g ref="char:EOLhyphen"/>cis utilitatem vincendo per<g ref="char:EOLhyphen"/>du cas. Aug. in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de verb. dom.</note>. In war, we ſay, the end muſt be good, which end <hi>in generall</hi> is <hi>Gods glory, in ſpeciall the conſervation of juſtice, and confirmation of peace: Pugna pacis mater,</hi> war is the mother of peace.</p>
+            <p n="3">3. <hi>War is lawfull when it is for the defence of a mans owne right,</hi> or for the ſafety, ſafeguard, and preſervation of our Cities, and habita<g ref="char:EOLhyphen"/>tions<note n="(q)" place="margin">2 Sam 10.12.</note>: For reaſon teacheth the learned, neceſſity the rude, cuſtome the Gentiles, and nature the wilde beaſts, to repay war with war, and force by force, when they are robbed and deprived of their right by injuſtice and oppreſion<note n="(r)" place="margin">Hoc &amp; ratio doctis, &amp; neceſſi<g ref="char:EOLhyphen"/>tas barbaris, &amp; mos gentibus &amp;c Cic. pro Milone</note>.</p>
+            <p n="4">4. <hi>War is lawfull when it is to repulſe our enimies: Moſes</hi>
+               <note n="(s)" place="margin">Exo. d 17.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> ſaid to <hi>Ioſhua, chuſe us out men, and goe fight:</hi> upon which words <hi>Piſcator</hi> ob<g ref="char:EOLhyphen"/>ſerves, that it is lawfull for the people of God to defend themſelves with weapons againſt their enimies; for <hi>Moſes</hi> doth here nothing of himſelfe, but by Gods direction. And</p>
+            <p n="5">5. <hi>When it is deliberately begun, and ſpeedily ended:</hi> undertaken with good advice, and given over with all willingneſſe, when it may with
+<pb n="10" facs="tcp:156241:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:156241:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:156241:9"/>ſafety, conveniency, and the good of Church and State. And</p>
+            <p n="6">6. <hi>When it is in defence of the innocent:</hi> for that war whereby either our Countrey is defended from invaders, or the weak and innocent from oppreſſion, or our friends from theeves and wicked perſons, is a moſt juſt war<note n="(a)" place="margin">Forti udo quae per bella tuetur a barb<g ref="char:EOLhyphen"/>ris pat<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m, v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l defend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> infir<g ref="char:EOLhyphen"/>mos, vela latro<g ref="char:EOLhyphen"/>nibus locios, plena juſt tia eſt. Amoroſ de effic.</note>. Or when war is attempted and enterprized to de<g ref="char:EOLhyphen"/>liver the oppreſſed, and to bridle the inſolency and cruelty of the wicked<note n="(b)" place="margin">Gen. 14.14.</note>.</p>
+            <p n="7">7. <hi>War is lawfull when it is for the puniſhment of publick injuries and wrongs;</hi> for juſt wars were wont to be thus defined, <hi>contentions whereby we endeavour to puniſh publick injuries and wrongs</hi>
+               <note n="(c)" place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſta bella ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lent <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, quae <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſcun<g ref="char:EOLhyphen"/>tar injuris. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>; and therefore <hi>that war</hi> was not only of old held <hi>juſt,</hi> but alſo <hi>neceſſary,</hi> which defended ſorce by force.<note n="(d)" place="margin">Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lud eſt non m<g ref="char:EOLhyphen"/>do iuſtum, ſe<g ref="char:EOLhyphen"/>e iam neceſſa<g ref="char:EOLhyphen"/>rium, quum v<g ref="char:EOLhyphen"/>vis illata de<g ref="char:EOLhyphen"/>fenditur, Cicer. pro Mione.</note> And</p>
+            <p n="8">8. <hi>When it is for Gods people,</hi> it is lawfull, 2 Sam. 10.12. And</p>
+            <p n="9">9. <hi>When the cauſe is iuſt, and weighty, not light and frivolous;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>vel de lana caprina,</hi> as about <hi>the ſhadow of an Aſſe,</hi> or, <hi>the fleece of a Goat,</hi> as the Proverbs are: that is, for trifles, and things of no value: but as <hi>Suetonius</hi> ſaid to, and of <hi>Auguſtus, Quod nulli gen<g ref="char:EOLhyphen"/>ti ſine juſtis &amp; neceſſariis cauſis bellum intulit,</hi> that he never made war with any Nation without juſt and neceſſary cauſes.<note n="(e)" place="margin">Sueton. in Aug Chap. 21.</note> And</p>
+            <p n="10">10. <hi>When it is undertaken by lawfull authority,</hi> to wit, of the Ma<g ref="char:EOLhyphen"/>giſtrate as was ſhewed before. And</p>
+            <p n="11">11. <hi>When it is only againſt thoſe who injure us, or raiſe uniuſt war againſt us, or our Countrey.</hi> Note here, that our Countrey, or King<g ref="char:EOLhyphen"/>dom may be injured by an enimy two manner of wayes, to wit:</p>
+            <p>Firſt, When he invades, by unjuſt forces, our temporall poſſeſſions and good things, labouring by a ſtrong hand to deprive us of them, whether it be our liberties, lawes, lives, riches, inheritances, wives, children, &amp;c. Now againſt ſuch as theſe we have juſt cauſe to defend our ſelves.<note n="(f)" place="margin">Iudg. 19.25. and 10.1.5. 2 Sam. 10.12. Nehem. 1.14.</note> And</p>
+            <p>Secondly, When he labours to rob and ſpoile us of our ſpirituall and eternall treaſure and riches, <hi>viz.</hi> the true worſhip of God, the true, pure, and holy Religion; and conſequently the ſalvation of our ſoules.<note n="(g)" place="margin">Deut. 13.14. 2 Sam. 10.12.</note>
+            </p>
+            <p n="12">12. <hi>War is lawfull when it is carried in a good manner:</hi> for although God himſelfe hath taught Stratagems in war, and conſequently al<g ref="char:EOLhyphen"/>lowes them; yet lawfull Covenants and Faith given muſt bee kept inviolable.</p>
+            <p n="13">13. When Malefactors, Malignants, and Delinquents are main<g ref="char:EOLhyphen"/>tained, and protected, as <hi>Iudg.</hi> 20.</p>
+            <p n="14">14. When Rebellion is moved, or raiſed in a Land, and defenſive
+<pb n="13" facs="tcp:156241:9"/>armes are prepared for the preſervation of the State, as <hi>David</hi> waged war againſt <hi>Sheba,</hi> 2 <hi>Sam.</hi> 20.</p>
+            <p n="15">15. When it is againſt Apoſtates, and back-ſliders in Religion, <hi>Deut.</hi> 13.12. &amp;c. <hi>Lyran</hi> in <hi>Numb.</hi> 31.</p>
+            <p n="16">16. When it is better than peace; <hi>for</hi>
+               <note n="(h)" place="margin">Belium ho<g ref="char:EOLhyphen"/>neſtum turpi pace preferen<g ref="char:EOLhyphen"/>dum eſt. De<g ref="char:EOLhyphen"/>moſthon.</note> 
+               <hi>an honeſt war is to be pre<g ref="char:EOLhyphen"/>ferred before a baſe and ſhamefull peace.</hi>
+            </p>
+            <p n="17">17. When it is enterprized by the ſpeciall commandment of God, as <hi>Saul</hi> was ſent againſt <hi>Amaleck.</hi>
+            </p>
+            <p n="18">18. When it is for the reſcuing and recovering of ſuch things as are unlawfully taken away, 1 <hi>Sam.</hi> 30.</p>
+            <p n="19">19. When it is <hi>incruentum bellum,</hi> an unbloody warre; or as <hi>Laer<g ref="char:EOLhyphen"/>tius</hi> ſaith, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a warre without weeping; that is, when the victory is got without blood-ſhed, and murder.</p>
+            <p n="20">20. <hi>When it is for the preſervation of liberty, and prevention of ſlavery and bondage.</hi> When time and neceſſity requires (ſaith <hi>Tully</hi>) we muſt fight, becauſe death is to be preferred before baſe ſlavery and ſervitude, and a man had better die in the wars, than live in diſgrace and bon<g ref="char:EOLhyphen"/>dage.<note n="(i)" place="margin">Quum tem<g ref="char:EOLhyphen"/>pus neceſſitaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> poſtulat, decer<g ref="char:EOLhyphen"/>tandu<g ref="char:cmbAbbrStroke">̄</g> eſt manu &amp; mors ſervi<g ref="char:EOLhyphen"/>tuti turpitudi<g ref="char:EOLhyphen"/>nique antepo<g ref="char:EOLhyphen"/>nenda; nam oc<g ref="char:EOLhyphen"/>cidi pulchrum eſt, ſi ignomi<g ref="char:EOLhyphen"/>nioſe ſervis, Cicer. in Tuſc, qu.</note>
+            </p>
+            <p>Laſtly, <hi>War is lawfull, when there is no other meanes left;</hi> for that warre is lawfull which is neceſſary, and thoſe armes are juſt and warrantable, which are not taken up untill there is no hope at all of peace or ſafety, but by warre.<note n="(k)" place="margin">Bellum eſt juſtum quod neceſſariu<g ref="char:cmbAbbrStroke">̄</g> eſt, &amp;arma ſunt pia quibus nulla niſi in armis re<g ref="char:EOLhyphen"/>linquitur ſpes, Livi. l. 9. dec. 1.</note> And hence the Jewes in all their voluntary wars, firſt offered peace unto their enimies, and then de<g ref="char:EOLhyphen"/>nounced warre; but did not execute it untill firſt they had made this threefold Proclamation, <hi>viz.</hi>
+               <note n="(l)" place="margin">Dedat ſe qui vult, fugiat qui vult, pugnet qui vult.</note>
+            </p>
+            <list>
+               <item>1. <hi>He that will have peace, let him have peace.</hi>
+               </item>
+               <item>2. <hi>He that will flee, let him flee.</hi>
+               </item>
+               <item>3. <hi>He that will make war, let him make war.</hi>
+               </item>
+            </list>
+            <p>This we muſt alwayes remember in warre, that though both the cauſe be juſt, and the authority ſufficient; yet muſt it not be raſhly or haſtily undertaken,<note n="(m)" place="margin">Extrema primo nemo tentavit loco.</note> for no man trieth extremities at the firſt. Warre is one of the ſharpeſt remedies to cure the maladies of a Com<g ref="char:EOLhyphen"/>mon-wealth, and the event thereof is both doubtfull and dangerous; and therefore it ſhould bee the laſt refuge, and only then uſed when neceſſity enforceth.</p>
+            <p>
+               <hi>Quest.</hi> 10. Although it be not much doubted or queſtioned, whe<g ref="char:EOLhyphen"/>ther the Jews or Gentiles of old did lawfully, as occaſion ſerved them, make warre, yet it is ordinarily enquired, <hi>whether it be lawfull for Chriſtians, now under the Gospel, to make war or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is, as is proved by theſe grounds, <hi>viz.</hi>
+            </p>
+            <p n="1">
+               <pb n="14" facs="tcp:156241:10"/>1. God, by <hi>Moſes</hi> preſcribes a forme of making warre, <hi>Deut</hi> 20 1. and therefore certainly he did allow his people ſometimes, and upon ſome occaſions to make warre.<note n="(n)" place="margin">Num. 10.9. and 31.2, 17. Iudg. 1. and 31 chapters.</note>
+            </p>
+            <p n="2">2. We read that many of Gods faithfull ſervants have made warre, as <hi>Abraham Gen</hi> 14.28. <hi>Moſes, Exod.</hi> 17.8. <hi>Ioſhua, Exod.</hi> 17.9. <hi>Ioſh.</hi> 1.14. and 12.7. the Judges, 1.3.4.5.7.8.11. chapters, the Kings, <hi>David, Aſa, Ioſaphat, Hezekiah.</hi>
+            </p>
+            <p n="3">3. <hi>Iohn</hi> Baptiſt forbids not ſouldiers to fight, neither commands them to give over warre, if they would be ſaved; but to wrong none, and be content with their wages, <hi>Luke</hi> 3.14.</p>
+            <p n="4">4. The Magiſtrate is ſaid, <hi>Rom.</hi> 13.4. <hi>not to beare the ſword in vaine, but to bee the Miniſter of God for our good, and a revenger to execute wrath upon him who doth evill.</hi> Which plainly ſhews, that the right of the ſword is allowed both againſt private faults and offenders, and alſo againſt publick, who by armes are to be reſiſted and oppoſed.</p>
+            <p n="5">5. <hi>Cornelius</hi> the Centurion, <hi>Acts</hi> 10.1. is commended for his faith, and did not give over warfare (that we read of) when he was baptized: which undoubtedly the Apoſtles would not have ſuffered if war bad been prohibited unto Chriſtians. And ſo Math 8.10. the faith of another Centurion is highly commended.</p>
+            <p n="6">6. It is moſt certain, that a great part of the Magiſtrates duty is, to protect and defend innocents, orphans, widdowes, and thoſe that are oppreſſed, which ſometimes without Armes cannot be done. And therfore if the caſe require it,<note place="margin">Rom 13.4.</note> the godly Magiſtrate may flee unto this laſt remedy of war. It is the office of the Magiſtrate, to take vengeance on him that doth evill: Now it may fall out that not one or two, or a few, but a multitude may do evill, and commit ſome outrage, who cannot be reſiſted but by force of armes; and then the Magiſtrate is to uſe this meanes of the ſword for the ſuppreſſion of evill, and the ven<g ref="char:EOLhyphen"/>geance of evill doers.</p>
+            <p n="7">7. That which God perſwades unto, and which is done by the in<g ref="char:EOLhyphen"/>ſpiration and aſſiſtance of his holy Spirit, is lawfull; but God often perſwades and exhorts the Saints to make warre, and is ſaid to be pre<g ref="char:EOLhyphen"/>ſent with them by his ſpirit, and to give victory unto them; and there<g ref="char:EOLhyphen"/>fore warre is lawfull, <hi>Ioſh.</hi> 1. <hi>Iudg.</hi> 6.11 and 13. chapters, 1 <hi>Sam.</hi> 15. and 30. chapters, <hi>Pſal.</hi> 44.</p>
+            <p n="8">8. That which the Saints doe by faith is lawfull unto them, but by faith they make warre, <hi>Heb.</hi> 11.34. therefore warre is lawfull unto them.</p>
+            <p n="9">9. The Scripture ſaith, <hi>There is a time to war, and a time to make
+<pb n="15" facs="tcp:156241:10"/>peace, Eccleſiaſt.</hi> 3.8. And therefore warre is lawfull.</p>
+            <p n="10">10. God is ſtiled, <hi>The Lord of Hoaſts, a man of war;</hi> One who teacheth our hands to warre, and who giveth victory in battell: and therefore warre is lawfull.</p>
+            <p>
+               <hi>Quest.</hi> 11. <hi>But whether is it lawfull for Subjects to take up armes againſt their Soveraigne?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Dr. <hi>Sharp (Symphon. Proph. &amp; Apoſt.</hi> pag. 244.) an<g ref="char:EOLhyphen"/>ſwers hereunto, that there are two ſorts of Subjects, to wit.</p>
+            <p n="1">1. Some who are meerely private, and theſe ought not of themſelves to take up armes againſt their King.</p>
+            <p n="2">2. Some who are ſo private, that the ſuperior power in ſome ſort doth depend upon them, as the Tribunes amongſt the Romans; the Ephori amongſt the Lacedemonians; and our Parliaments amongſt us: And if Princes obſerved not their Covenants and promiſes, theſe might reduce them, and if they ſought the overthrow of the State, theſe might withſtand them.</p>
+            <p>
+               <hi>Queſt.</hi> 12. What are the Remedies againſt warre, that is, both for the preventing and removall of it?</p>
+            <p>
+               <hi>Anſw.</hi> 1. The Remedies are either <hi>Morall, Martiall,</hi> or <hi>Theo<g ref="char:EOLhyphen"/>logicall.</hi>
+            </p>
+            <p>Firſt, the <hi>Morall meanes</hi> are theſe two, to wit:</p>
+            <p n="1">1. Humble ſutes and ſupplications for peace, unto them from whom a warre is feared.</p>
+            <p n="2">2. Expreſſions of the Loyalty of our actions, and ſincerity of our intentions and deſires, however they may be wreſted or miſcon<g ref="char:EOLhyphen"/>ſtrued.</p>
+            <p>Secondly, The <hi>Military meanes</hi> are many, as namely,</p>
+            <p n="1">1. <hi>To follow cloſe a victory:</hi> this was <hi>Hambals</hi> fault, who could tell better how to winne the field, than how to uſe his victory: and this <hi>Caſar</hi> blamed in <hi>Pompey,</hi> that having once the better of him, he did not follow his fortune.</p>
+            <p n="2">2. <hi>To give way to a ſtormer Plus audet audax quam fortis,</hi> a foole<g ref="char:EOLhyphen"/>hardy man dare doe more than one truly magnanimous; for the property of a good ſouldier is not to runne himſelfe into ſuch deſperate hazards, that there is no probability for him to come off with ſafety; but couragiouſly to adventure upon any feazible deſigne, and to give it over, when it may bee given over, but cannot bee effected or brought to paſſe. It is better (as all know and will confeſſe) for ſoul<g ref="char:EOLhyphen"/>diers ſometimes to retreat, that they may returne againe to their
+<pb n="16" facs="tcp:156241:11"/>greater advantage, than to keep their ſtations and die. Whence <hi>An<g ref="char:EOLhyphen"/>tigonus</hi> once forced to give way to the violent onſet of his enemies, ſaid,<note n="(o)" place="margin">S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gere, ſed utili<g ref="char:EOLhyphen"/>tatem retrò ſi<g ref="char:EOLhyphen"/>tam perle qui.</note> 
+               <hi>That he did not flie, but purſue his profit and advantage, which was placed backwards, or behinde him;</hi> intimating, that in ſuch a caſe it was more commodious for him to goe backwards than for<g ref="char:EOLhyphen"/>wards, to retire than to advance.</p>
+            <p n="3">3. Another Military meanes for the removall of warres is Pru<g ref="char:EOLhyphen"/>dence, Magnanimity, and skill in Martiall diſcipline, in the Cap<g ref="char:EOLhyphen"/>taines, Commanders, and Officers.</p>
+            <p n="4">4. Another is, for Captaines and Commanders to obſerve, and mark diligently all conveniences and advantages of time, place, &amp;c. both for pitching their tents, and fighting their battells.</p>
+            <p n="5">5. Another is, in the ſouldiers ſtrength, courage, reſolution, and obedience to their Commanders.</p>
+            <p n="6">6. Another is, for Captaines and ſouldiers in neceſſity, when they can, to help one another.</p>
+            <p n="7">7. Another is, for Captaines and Common Souldiers to bee well armed, for and againſt all aſſayes, and aſſaults: But more amply of theſe by and by in the way unto Victory.</p>
+            <p>Thirdly, the <hi>Theologicall</hi> or <hi>Religious Remedies</hi> or <hi>Means</hi> for the pre<g ref="char:EOLhyphen"/>venting and removing of Warre, are theſe which follow, and the like, <hi>viz.</hi>
+            </p>
+            <p n="1">1. To warre upon our ſelves; The Oracle of <hi>Apollo</hi> anſwered thoſe of <hi>Cyrrha, That if they would live in peace at home, they ſhould make war with their neighbours abroad;</hi> but if we deſire peace with others, we muſt wage continuall war with our ſelves, and our own ſins, <hi>wickedneſſe within,</hi> being the true cauſe of <hi>war without.</hi>
+            </p>
+            <p n="2">2. To humble our ſelves before and unto God, by faſting, <hi>Joel</hi> 2. <hi>&amp;</hi> 3. <hi>Jonah</hi> 3.</p>
+            <p n="3">3. To enter into a covenant and holy league with God, <hi>Hoſe</hi> 2.18.</p>
+            <p n="4">4. Seriouſly to repent and to turne truly unto God, <hi>Levit.</hi> 26.40 &amp;c. <hi>Devt.</hi> 30.1. and 32.36. and 1 <hi>Sam.</hi> 7.3. <hi>Jer.</hi> 4.8. and 6.26.</p>
+            <p n="5">5. A promiſe of thankfulneſſe or thankſgiving unto the Lord, if he will be pleaſed to give victory unto us or preſerve and deliver us from warre, and the performance of this promiſe when he hath anſwered our deſires.</p>
+            <p n="6">6. Prayer unto God, and that both in generall and particular.</p>
+            <p>Firſt, in generall we muſt pray that the Lord would be our Captain in the time of War, and take our part and fight for us, there being no<g ref="char:EOLhyphen"/>thing
+<pb n="17" facs="tcp:156241:11"/>without him which will or can help us, that is, neither
+<list>
+                  <item>1. Strong, and well inſtructed Armies, <hi>Pſal.</hi> 33.16. Nor</item>
+                  <item>2. Fenced Cities, <hi>Amos</hi> 5.9. Nor</item>
+                  <item>3. Great or mighty colleagues or confederates, <hi>Pſal.</hi> 60.13. and 62.10. And therefore let us not truſt in any of theſe or the like, but only in the Lord, as theſe his Saints have done, to wit, <hi>Aſa</hi>
+                     <note n="(p)" place="margin">2 Cro. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>4.11</note>, <hi>Io<g ref="char:EOLhyphen"/>ſaphet</hi>
+                     <note n="(q)" place="margin">2 Cro. 20.12</note>, <hi>David</hi>
+                     <note n="(r)" place="margin">Pſal. 44.6. &amp; 108.13.</note>, <hi>Iſa</hi>
+                     <note n="(ſ)" place="margin">Iſa. 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.2.</note> 
+                     <hi>Hezekiah</hi>
+                     <note n="(t)" place="margin">Iſa. 37.20.</note>.</item>
+               </list>
+            </p>
+            <p>Secondly, Becauſe the Lord works ordinarily by meanes, therefore we muſt in ſpeciall and more particularly pray when we are anoid and infeſted with war.</p>
+            <p n="1">1. That the Lord would beſtow upon our Captaines, Commanders, and Officers, ſuch wiſedome, and prudence, yea ſuch fortitude and courage, that they may conſult of, manage, and order all things wiſe<g ref="char:EOLhyphen"/>ly and diſcreetly, and proſecute, yea execute all things proſperouſly, magnanimouſly, and with good ſucceſſe, <hi>Pſal.</hi> 20.1.5.</p>
+            <p n="2">2. That the Lord would encline the hearts of the ſouldiers unto obe<g ref="char:EOLhyphen"/>dience, and ſubjection to their Captaines; and preſerve them from all ſedition and riſing up againſt their Commanders</p>
+            <p n="3">3. That the Lord would preſerve both Commanders and Common Souldiers from all wickedneſſe and impiety, eſpecially from thoſe hainous offences which too frequently follow the Camp and accom<g ref="char:EOLhyphen"/>pany wars; as namely, blaſphemy, fornication, rapes, drunkenneſſe, gaming, jarres, contentions, theft, pilfering, &amp;c.</p>
+            <p n="4">4 That the Lord would ſtrengthen the hands of all in battell, gi<g ref="char:EOLhyphen"/>ving them courageous hearts, reſolute minds, and firme reſolutions, that their battels and endeavours may be crowned with victory.</p>
+            <p>Now that theſe our prayers may become effectuall, two things are required, <hi>viz.</hi>
+            </p>
+            <p>Firſt, They muſt proceed from a pure mind, or an heart purged from ſinne<note n="(u)" place="margin">Pro. 1.26. &amp; 28.9. Iſa 1.15. &amp; 59.2. Mic. 3.1.</note>.</p>
+            <p>Secondly, They muſt proceed from faith unfained, or from a firme confidence and aſſurance, that the Lord will heare our prayers in as much as may ſtand with his glory and our good<note n="(x)" place="margin">Iam. 1.6.</note>.</p>
+            <p>And thus much for the <hi>Remedies</hi> againſt, or <hi>Meanes</hi> for removall of this plague of <hi>war</hi> from us.</p>
+            <p>
+               <hi>Queſt.</hi> 13. It may now in the laſt place be demanded, <hi>How victory may be obtained in War?</hi> Or by what means we may not only be preſerved from the power of our enemies in battell, but alſo bring them by con<g ref="char:EOLhyphen"/>queſt and victory into ſubjection?</p>
+            <pb n="18" facs="tcp:156241:12"/>
+            <p>Firſt, The <hi>Martiall meanes</hi> for the obtaining of <hi>victory</hi> in <hi>war,</hi> are either <hi>Negative,</hi> or <hi>Affirmative.</hi>
+            </p>
+            <p n="1">1. <hi>Negative,</hi> if ſouldiers deſire conqueſt in fight, Then</p>
+            <p n="1">1. They muſt not fall to pillaging too ſoone, leſt their enemies take occaſion thereby to fall upon them, and to take them unprovided.</p>
+            <p n="2">2. They muſt not purſue their enemies in flight ſo eagerly, that they mingle themſelves with them or run themſelves ſo far in amongſt them, that they are not able to bring themſelves off againe with ſafety.</p>
+            <p n="3">3. They muſt not at all truſt to their multitude, for not alwayes that Army which is the greateſt prevailes, but oftentimes the leaſt. <hi>Darius</hi> againſt <hi>Alexander, Pompey</hi> againſt <hi>Caeſar, Haniball</hi> againſt <hi>Scipi, Antonius</hi> againſt <hi>Auguſtus,</hi> and <hi>Mithridates</hi> againſt <hi>Sylla,</hi> had greater Forces without compariſon then their enemies, and yet were overcome.</p>
+            <p n="4">4. They muſt not at all truſt in their own ſtrength: Thou haſt therefore oh man (ſaith <hi>Augustine</hi>
+               <note n="(a)" place="margin">Oh homo ideo non viciſti quia de tuo prae<g ref="char:EOLhyphen"/>ſumpſiſti. Qui praeſumit de vi<g ref="char:EOLhyphen"/>ribus ſuis ante<g ref="char:EOLhyphen"/>quam pugnet, proſter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iter. Aug. de verb. Apoſt</note> not overcome in battell, becauſe thou preſumedſt of thy ſelfe; for he who before fight, truſts in his own ſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngth, ſhall be overthrown<note n="(b)" place="margin">Eccleſ. 9.11.</note>.</p>
+            <p>Secondly, There are <hi>Affirmative martiall meanes</hi> for the obtaining of <hi>Victory</hi> in <hi>War;</hi> as namely.</p>
+            <p n="1">1. For Captaines highly to prize their ſouldiers, <hi>Fabius Maximus</hi> ſent to <hi>Rome</hi> to the Senate for money, to redeeme his ſouldiers which <hi>Haniball</hi> had taken Priſoners, and being denied thereof, commanded his ſonne to ſell all his lands, and bring money for their ranſome; ſo highly did he value and eſteeme the freedome of his men. And thus every Captaine ſhould doe if he would winne the love and affection of his ſouldiers, without which a Commander ſhould hardly obtaine victory.</p>
+            <p n="2">2. Courage and reſolution in battell: 300 Noble-men of the houſe of the <hi>Fabii,</hi> tooke upon them alone to wage battell againſt the <hi>Vi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tines</hi>
+               <note n="(c)" place="margin">Livius.</note>. To ſhew that a true and magnanimous ſouldier will not fear to undertake any noble feazible enterprize for the obtaining of Vi<g ref="char:EOLhyphen"/>ctory in the day of battell.</p>
+            <p n="3">3. Long preparation for the undertaking thereof: Hee muſt long prepare for warre who would ſpeedily overcome, becauſe a long pre<g ref="char:EOLhyphen"/>paration of war makes a ſpeedy victory<note n="(d)" place="margin">Diu appa<g ref="char:EOLhyphen"/>randum eſt bel<g ref="char:EOLhyphen"/>lum ut vincas celerius, quia lo<g ref="char:cmbAbbrStroke">̄</g>ga bellis prae<g ref="char:EOLhyphen"/>pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atio celere<g ref="char:cmbAbbrStroke">̄</g> facit victoriam Senec. epiſt. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>.</p>
+            <p n="4">4. To proſecute the wars with good counſell and advice; for there muſt be counſell at home when there is warre abroad<note n="(e)" place="margin">Parva ſunt arma foris, ſi non eſt conſili<g ref="char:EOLhyphen"/>um domi. Sen. Epiſt. 15.</note>.</p>
+            <p n="5">5. A diligent obſervation of all conveniences and inconveniences
+<pb n="19" facs="tcp:156241:12"/>which may happen, whether of Sun, winde, miſts, &amp;c. for the Sun and duſt hinders our ſight, and the winde being contrary, or in our face, is noxious both to horſe, rider, and all kinds of darts, arrows, and ſhot.<note n="(a)" place="margin">Ordinatu<g ref="char:EOLhyphen"/>rus aciem, tria debet ante pro<g ref="char:EOLhyphen"/>ſpicere, ſolem, pulverem, ven<g ref="char:EOLhyphen"/>tum, &amp;c. Veget. l. 13. cap. 14.</note>
+            </p>
+            <p n="6">6. The uſe and aſſiſtance of expert and experienced ſouldiers, who know their termes of art, poſtures, conveniences, inconveniences, when to advance, when to fall off; and how to uſe their weapons, or handle their armes &amp;c. One ſaying on a time to <hi>Epaminondas,</hi> that the Athenians were all armed with new armes and weapons, anſwered, What then? ſhall <hi>Antigenidas</hi> (who was a moſt curious Muſitiam) weepe, becauſe <hi>Tellia</hi> (who was a moſt poore player of inſtruments) hath got a new Pipe? ſignifying, that the Athenians were to ſmall purpoſe armed with new weapons, ſeeing they knew not how to uſe them.<note n="(b)" place="margin">Plutarch. in apoph.</note> If an Army conſiſt of raw, yong, and freſh-water ſouldiers, who ſeldome or never ſaw men wounded or ſlaine; when they come to ſee ſuch ſights, they will tremble and be confounded with feare, and begin to think rather of flying than fighting.<note n="(c)" place="margin">quirarò aut nunquam vi<g ref="char:EOLhyphen"/>derent homi<g ref="char:EOLhyphen"/>nes vulnerari, vel occidi quu<g ref="char:cmbAbbrStroke">̄</g> primum aſpe<g ref="char:EOLhyphen"/>xerint &amp;c.</note> Experience ſhewes, that knowledge and skill in Military and Martiall diſcipline doth exceedingly embolden a ſouldier in battell; and that in warlike enterprizes, a few ancient and expert Warriours hath overcome, got the day, put to flight, yea to a ſore ſlaughter, a great multitude of rude ignorant, untaught and untutered ſouldiers<note n="(d)" place="margin">Vigetius. de re militari. lib. 1. cap. 6.</note>.</p>
+            <p n="7">7. Subtilty, Policy, and ſecret ſtratagems: Note here, That Poli<g ref="char:EOLhyphen"/>cy in war, is threefold, to wit,</p>
+            <p n="1">1. For the immediate endangering of the enemy: It is obſerved That <hi>Haniball</hi> never fought any battell without laying ſome ambuſh for the enſnaring of his enemies: And when juſt war is taken in hand, it matters not whether a man endeavour to conquer, ſubdue, and maſter his Adverſaries by open force or ſecret politike devices: for the Lord commanded <hi>Ioſhua</hi> by deceit, or a ſecret ſtratagem, to overcome the Inhabitants of <hi>Ai</hi>
+               <note n="(e)" place="margin">Quum juſtu<g ref="char:cmbAbbrStroke">̄</g> bellum ſuſcipi<g ref="char:EOLhyphen"/>tur utrum a<g ref="char:EOLhyphen"/>pertè pugnet <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quis, an ex in<g ref="char:EOLhyphen"/>ſibits, nihil ad juſtitiam inter<g ref="char:EOLhyphen"/>eſt. Aug. ad. Bonif.</note>. Good Captaine; doe not alwayes <hi>Vi &amp; armis,</hi> by open force labour the overthrow of their foes, but chiefly en<g ref="char:EOLhyphen"/>deavour it by ſecret ſtratagems, becauſe in open warre there is a com<g ref="char:EOLhyphen"/>mon danger, but in warlike devices thoſe who lie in wait are not in ſuch perill, as theſe are for whom they lie in wait<note n="(f)" place="margin">Boni <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non aperte praelio, in qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſt co<g ref="char:cmbAbbrStroke">̄</g>mune pe<g ref="char:EOLhyphen"/>riculum, ſed ex occulto ſempe attentant. &amp;c. Viget. l 3. ca 9</note>. <hi>Antigonus</hi> being asked, <hi>How a man ſhould give the onſet upon his enemy?</hi> anſwered, <hi>either by force or fraud, either openly or by deceit</hi>
+               <note n="(g)" place="margin">Aut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> aut vi, au<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a pertè aut pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> inſidias. Sto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>.</p>
+            <p n="2">2. Policy in war is ſometimes for the immediate preſervation of themſelves, and mediate or conſequent diſadvantage of their
+<pb n="20" facs="tcp:156241:13"/>foes: <hi>P. Aemilius</hi> to avoid the Sunne that ſhined in the face of his Hoaſt, was ſo long in ranging his Army, that by the time the battells ſhould joyne, the Sunne was upon his back. The like policy uſed <hi>Ma<g ref="char:EOLhyphen"/>rius</hi> againſt the <hi>Cymbrians,</hi> and <hi>Auguſtus</hi> againſt the <hi>Flemings.</hi>
+            </p>
+            <p n="3">3. Policy in warre is ſometimes for the encouraging of the ſouldi<g ref="char:EOLhyphen"/>ers againſt their enemies: <hi>Polemon</hi> to make his ſouldiers fiercer in aſ<g ref="char:EOLhyphen"/>ſailing the <hi>Lacedemonians,</hi> caſt his colours into the midſt of his ene<g ref="char:EOLhyphen"/>mies, whereupon they preſſed upon them with great violence, eſteeming it a great ſhame to abandon their Ancient, or to have their enemies poſſeſſe their Enſigne.</p>
+            <p n="8">8. Another martiall meanes for the obtaining of Victory, is the Captaines encouraging of his ſouldiers and convincing them of the lawfulneſſe of the war in hand. <hi>Themiſtocles</hi> leading out the Army of the <hi>Athenians</hi> againſt their enemies, ſaw two Cocks ſighting moſt fiercely; whereupon, hee turned him to his Souldiers, with theſe words<note n="(h)" place="margin">Hi neque propatria, neq pro aris &amp; fo<g ref="char:EOLhyphen"/>cis, neque pro monumentis avorum, neque pro gloria, ne<g ref="char:EOLhyphen"/>que pro liberis neque pro li<g ref="char:EOLhyphen"/>bertate, pericu<g ref="char:EOLhyphen"/>lum ſubeunt, ſed tantum, ne alter ab altero ſuperetur, ei<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cedere cogatur Aelian. lib. 2. cap. 28.</note>: Theſe neither fight for their Countrey, nor for their Re<g ref="char:EOLhyphen"/>ligion, nor for their Poſſeſſions, nor for their fathers Sepulchers, nor for honor, nor for their wives &amp; children, nor for their Lawes, or Liberties, but only, Leſt the one ſhould be overcome of the other, and forced to yeeld unto him: How much more then ſhould we hazzard and ad<g ref="char:EOLhyphen"/>venture our lives when we fight for all theſe? with which words his ſouldiers were ſo encouraged, that they went moſt courageouſly and reſolutely againſt their Adverſaries.</p>
+            <p n="9">9. Another meanes is, experienced Commanders and ſtout Captains; <hi>Cabrias</hi> the Athenian was wont to ſay<note n="(i)" place="margin">Ter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibilio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em eſſe exer<g ref="char:EOLhyphen"/>citum cervo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um duce Le<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, quam Le<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um duce ce<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. Eraſm lib. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. cap. 32. Fa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er.</note>: <hi>That an Army of Deere was more terrible if they had but a Lyon to be their Captaine, than an Army of Lyons having an Hart to be their Captaine.</hi>
+            </p>
+            <p n="10">10. Another meanes is, to cope with the enemy, before his ſtrength encreaſe too much; whence <hi>Iulius Caeſar</hi> was wont to ſay,<note n="(k)" place="margin">Expectare <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>piae a gen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur, ſumma de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a eſt. Iu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us Cael. Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent lib 4.</note> That it was a great madneſſe for any to ſtay untill the Hoaſt or their ene<g ref="char:EOLhyphen"/>my was encreaſed and multiplied; becauſe he who deſires to con<g ref="char:EOLhyphen"/>quer and ſubdue his foe, may in all probability ſooner doe it when his Army is ſmall, than when it is great, when he hath few to aid him, than when he hath many.</p>
+            <p n="11">11. Another meanes is, to be reſolute, and couragious in battell. There is a people in <hi>Germany</hi> called Catti, whoſe ſtrength conſiſteth in their foot men; of whom it is ſaid,<note n="(l)" place="margin">Tacitus.</note> 
+               <hi>Others goe to skirmiſh, and the Catti to warre;</hi> ſuch was their courage, magnanimity and un<g ref="char:EOLhyphen"/>daunted reſolution in the day of battell: much like to that ſpeech of King <hi>Iames, That he had foure and twenty Players, and ſix Actors.</hi>
+               <pb n="21" facs="tcp:156241:13"/>Souldiers muſt not be like the Frenchmen, of whom it is ſaid,<note n="(m)" place="margin">Livius.</note> 
+               <hi>That if they looſe the first encounter, they looſe alſo the victory;</hi> but rather like the Lacedemonians, who of all people were moſt valiant, being both in the beginning and end of the battell more than men.</p>
+            <p n="12">12. Another meanes is, to aime <hi>principally</hi> at the <hi>principall,</hi> and to <hi>levell</hi> at the <hi>Leaders,</hi> (as <hi>Scanderbeg</hi> was alwayes obſerved to doe) becauſe, <hi>ſmite the ſheepherd, and the ſheep will be ſcattered. Epaminondas</hi> viewing a huge and well harneſſed Army, but without a Leader, Ge<g ref="char:EOLhyphen"/>nerall, or Captain, ſaid,<note n="(n)" place="margin">Quan<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bellua, ſed abſ<g ref="char:EOLhyphen"/>que capi c. St. b.</note> 
+               <hi>How great and faire a beaſt is here, but with<g ref="char:EOLhyphen"/>out an head.</hi>
+            </p>
+            <p n="13">13. Another meanes is, to warre only upon juſt cauſes. It is ob<g ref="char:EOLhyphen"/>ſerved, That the Emperour <hi>Trajane</hi> was never overcome, or van<g ref="char:EOLhyphen"/>quiſhed in warre, becauſe he never undertook warre without juſt cauſe, as <hi>Hely</hi> the Spartan doth ſay. The Romans were never ſo foiled, neither ever received ſo much diſhonour in all their warres in <hi>Aſia,</hi> or <hi>Africa,</hi> as they received at the ſiege of <hi>Numantia;</hi> and this was not for default of battery or aſſault, or becauſe the City was impreg<g ref="char:EOLhyphen"/>nable, but becauſe their warres againſt <hi>Numantia</hi> were unjuſt, and the <hi>Numantines</hi> had juſt cauſe to defend themſelves. <hi>Titus Livius</hi> ob<g ref="char:EOLhyphen"/>ſerves, that <hi>Marcus Marcellus</hi> would not be Captaine of that warre, which was not very well juſtified; and that <hi>Quintus Fabius</hi> would never undertake that warre in chiefe, which was not very dangerous; and that theſe two Noble Princes were of high eſteeme with the Ro<g ref="char:EOLhyphen"/>mans: But in the end much more was the eſtimation of <hi>Marcus Mar<g ref="char:EOLhyphen"/>cellus</hi> for being <hi>just,</hi> than of <hi>Quintus Fabius</hi> for being <hi>valiant.</hi> Whence it hath beene ſaid<note n="(o)" place="margin">Si bona ſue<g ref="char:EOLhyphen"/>rit cauſa pug<g ref="char:EOLhyphen"/>nantis, pugnae exitus malus eſſe non poteſt &amp; vice verſa &amp;c. Ber<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. de nova militia.</note> 
+               <hi>That if the cauſe of the Warriour be good, the end of the warre cannot be evill;</hi> and contrarily the end of a fight is not judged to be good, except a good cauſe and a right intention did precede the fight.</p>
+            <p>Theſe and the like, are the <hi>Military</hi> and <hi>Martiall Meanes</hi> which are to be uſed for the obtaining of <hi>Victory</hi> in <hi>Warre.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> Againſt theſe it may be objected, that victory in warre comes only from God; and therefore all Military meanes are vaine, none being able to preſerve us from warre.</p>
+            <p>
+               <hi>Anſw.</hi> To neglect the meanes wholly, is to tempt Gods Provi<g ref="char:EOLhyphen"/>dence, and to truſt in the meanes, is to diſtruſt Gods Providence; and therefore we muſt obſerve, how meanes profit, and how not, <hi>viz.</hi>
+            </p>
+            <p n="1">1. Military meanes will help us, as they are meanes ordained by God, for the removall of the malady of warre, if we uſe them in the
+<pb n="22" facs="tcp:156241:14"/>feare of the Lord, and becauſe ordained by God, putting our truſt, confidence, and affiance for our protection and preſervation wholly in Him, notwithſtanding the uſe of the meanes</p>
+            <p n="2">2. Theſe meanes will not help us, if God being deſpiſed, neglected, and not looked at at all in the uſe of them; wee being intent only upon them, or at leaſt reſpect them primarily, hoping that they will profit us without God: for victory in war is neither got by multitude, nor ſtrength, but by the ayd, aſſiſtance, and power of God<note n="(p)" place="margin">Victoria in bello nec mul<g ref="char:EOLhyphen"/>titudine, neque fortitudine pa<g ref="char:EOLhyphen"/>ratur, ſed divi<g ref="char:EOLhyphen"/>no auxilio. Xe<g ref="char:EOLhyphen"/>nophon. Stob. ſerm. 49.</note>. And therfore theſe military meanes muſt now be uſed, and thoſe Theologicall, men<g ref="char:EOLhyphen"/>tioned in the 12 queſtion, and then truſt ſolely, wholly, and onely to our good and gracious God, who is the God of victory, and maketh wars to ceaſe in the world: and to whom all praiſe and glory belongs both for the enjoyment of all good, and preſervation from all evill, whether of ſinne, or puniſhment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
